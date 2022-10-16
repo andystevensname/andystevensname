@@ -4,4 +4,4 @@ I'm a technical writer by day, and a writer/poet/dev by night. You'll see my han
 
 I'm curious about a lot of technologies and will readily tell you I'm an expert in none of them. But, when it comes down to the code you see here it's mostly JavaScript, HTML, CSS, and Python.
 
-Drop me a line if you want to collaborate! **@andystevensname** here and on that bird website.
+:point_right: Drop me a line if you want to collaborate! **@andystevensname** here and on that :bird: website.
